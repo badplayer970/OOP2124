@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:../rec10/Instrument.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../rec10/Instrument.hpp">
+   </FileRef>
+   <FileRef
+      location = "group:../rec10/main.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../rec10/MILL.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../rec10/MILL.hpp">
+   </FileRef>
+   <FileRef
+      location = "self:">
+   </FileRef>
+</Workspace>
